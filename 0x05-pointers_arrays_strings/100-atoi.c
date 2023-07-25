@@ -39,12 +39,10 @@ int _atoi(char *s)
 		i++;
 	}
 
-<<<<<<< HEAD
-=======
 	if (f == 0)
 		return (0);
 
 	return (n);
 }
 
->>>>>>> 2b29525082cba6c55b76d5f0937412418ae47b55
+
